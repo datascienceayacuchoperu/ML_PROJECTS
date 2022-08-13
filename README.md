@@ -1,1 +1,1 @@
-Repo dedicated to several examples like machine learning code
+##Repo containing several examples like machine learning codes among others.
